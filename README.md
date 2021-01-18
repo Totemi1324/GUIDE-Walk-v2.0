@@ -1,5 +1,5 @@
 # GUIDE-Walk v2.0
-Alle Dateien, die für das Projekt "GUIDE-Walk v2.0: Autonomes Blindenführersystem mit KI" entstanden sind, sind hier organisiert. Erstellt für den [Regionalwettbewerb Jugend forscht 2021](https://www.jugend-forscht.de/).
+Alle relevanten Dateien, die für das Projekt "GUIDE-Walk v2.0: Autonomes Blindenführersystem mit KI" entstanden sind, sind hier organisiert. Erstellt für den [Regionalwettbewerb Jugend forscht 2021](https://www.jugend-forscht.de/).
 
 ### Allgemeines
 
