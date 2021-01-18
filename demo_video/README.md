@@ -1,6 +1,7 @@
-# sample_video
+# demo_video
 
-Hier sind alle Beispielvideos und  der KI aufgelistet. Alle Dateien werden von Google Drive gehostet und sind frei zum Download verfügbar.
+Hier ist sämtliches rohes Filmmaterial der Kamera sowie von der KI ausgewertete Beispielvideos aufgelistet. Alle Dateien werden von Google Drive gehostet und sind frei zum Download verfügbar.
+Die Liste wird beständig erweitert.
 
 ### Beispielvideos
 
