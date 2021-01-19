@@ -7,8 +7,8 @@ Die Liste wird beständig erweitert.
 
 Name|Download
 :---:|:---:
-test.mp4|[Video](https://drive.google.com/file/d/1F4j73xJqBquA7tgA4NsVxszZDEXcT_yI/view?usp=sharing)
-video_1.mp4|[Video](https://drive.google.com/file/d/1abztzyr54WwwXn-Ky8-YVYghgNCxY41L/view?usp=sharing)
-video_2.mp4|[Video](https://drive.google.com/file/d/1U5qz5u0LDjTCLeqrbStQXqyU5aln5X48/view?usp=sharing)
-detection_out_1.mp4|[Video](https://drive.google.com/file/d/1dNJzwjpzpiGItWfYhr3LI7HwH6_kR5G6/view?usp=sharing)
-detection_out_2.mp4|[Video](https://drive.google.com/file/d/1hIPdEU74lvEQYNphYQoOPJmlmUXZ9052/view?usp=sharing)
+street_test.mp4 *(Eigener Straßentest)*|[Video](https://drive.google.com/file/d/1F4j73xJqBquA7tgA4NsVxszZDEXcT_yI/view?usp=sharing)
+dataset_test.mp4 *(Ausschnitt aus eigenem Testdataset mit isolierten Klassen)*|[Video](https://drive.google.com/file/d/1d2X8clmqpmXwG33135waDEdZGo3-v9SY/view?usp=sharing)
+dataset_test_output.mp4 *(Ausgewertete Version)*|[Video](https://drive.google.com/file/d/1tstNJSx9VnXxeCCVW-ZcZqQ3F2pD0PVT/view?usp=sharing)
+schliermann_test.mp4 *(Rohaufnahme des Testlaufs von Rainer Schliermann, OTH)*|[Video](https://drive.google.com/file/d/1wm7YE49QaxIZhOiDcRTc6sgLvVIeYIdH/view?usp=sharing)
+pichlmeier_test.mp4 *(Rohaufnahme des Testlaufs von Rudolf Pichlmeier, BBSB)*|[Video](https://drive.google.com/file/d/1gHiMYecs_a2RPvmI7tpdidjFIog5O8ye/view?usp=sharing)
