@@ -81,7 +81,7 @@ private:
     const float meanVal = 127.5f;
     const float confidenceThreshold = 0.3f;
     
-    char classNames[11][19] = {"background", "person", "bicycle", "car", "motorcycle", "bus", "bench", "chair", "bin", "traffiglight_red", "trafficlight_green"};
+    char classNames[11][19] = {"background", "person", "car", "bus", "bicycle", "motorcycle", "bench", "chair", "bin", "traffiglight_red", "trafficlight_green"};
     
     cv::Scalar colors[11] = {cv::Scalar(0, 0, 0), cv::Scalar(0, 255, 128), cv::Scalar(0, 255, 255), cv::Scalar(0, 128, 255), cv::Scalar(128, 255, 0), cv::Scalar(255, 255, 0), cv::Scalar(255, 128, 0), cv::Scalar(255, 0, 127), cv::Scalar(255, 0, 255), cv::Scalar(0, 0, 204), cv::Scalar(0, 204, 0)};
 public:
@@ -102,7 +102,7 @@ public:
         BOOST_LOG_TRIVIAL(info) << "Done initializing network!";
     }
     cv::Mat detect(cv::Mat frame) {
-        cv::Mat inputBlob = cv::dnn::blobFromImage(frame, inScaleFactor, cv::Size(inWidth, inHeight), meanVal, false); //Convert Mat to batch of images
+        cv::Mat inputBlob = cv::dnn::blobFromImage(frame, inScaleFactor, cv::Size(inWidth, inHeight), cv::Scalar(meanVal, meanVal, meanVal), false); //Convert Mat to batch of images
 
         net.setInput(inputBlob, "data"); //Set the network input
         cv::Mat detection = net.forward("detection_out");
