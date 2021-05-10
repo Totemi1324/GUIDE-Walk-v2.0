@@ -1,5 +1,5 @@
 # GUIDE-Walk v2.0
-Alle relevanten Dateien, die für das Projekt "GUIDE-Walk v2.0: Autonomes Blindenführersystem mit KI" entstanden sind, sind hier organisiert. Erstellt für den [Landeswettbewerb Jugend forscht 2021](https://www.jugend-forscht.de/).
+Alle relevanten Dateien, die für das Projekt "GUIDE-Walk v2.0: Autonomes Blindenführersystem mit KI" entstanden sind, sind hier organisiert. Erstellt für den [Bundeswettbewerb Jugend forscht 2021](https://www.jugend-forscht.de/).
 
 ### Allgemeines
 
@@ -26,6 +26,12 @@ Dataset|Download|Download
 [Ampelpilot](https://github.com/patVlnta/Ampel-Pilot)|[Images](https://drive.google.com/file/d/10geTRHlrE-jTRdDPCw0VNrQEjTe_GV7u/view?usp=sharing)|[Labels](https://drive.google.com/file/d/10RGl02U1T-5gYq2nO2-GiREz-TjRK9_p/view?usp=sharing)
 Eigene Aufnahmen|[Images](https://drive.google.com/file/d/1IRKaGkQdRIb97vfSxGQV2koyMVyhsk9F/view?usp=sharing)|[Labels](https://drive.google.com/file/d/1a30W06y9Maws8e8dqi4THVXOFuic8dGU/view?usp=sharing)
 Eigene Aufnahmen (Test)|[Images](https://drive.google.com/file/d/1gJ_HtiwCqTB-t3HbrtVZn6DOOiu1gB9I/view?usp=sharing)|[Labels](https://drive.google.com/file/d/12a9DQeHYzYznV0H8E5NWmcaciklSdrFI/view?usp=sharing)
+
+Datasheets der verwendeten Sensoren:
+
+Ordner|Download
+:---:|:---:
+Datasheets|[Google Drive](https://drive.google.com/drive/folders/1u44wP62fZVBDBpkOAjvGgmubzeeSvxfF?usp=sharing)
 
 ### Danksagungen
 
