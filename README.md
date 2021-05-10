@@ -37,7 +37,7 @@ Datasheets|[Google Drive](https://drive.google.com/drive/folders/1u44wP62fZVBDBp
 
 Vielen Dank an all diejenigen, die mich bei der Planung und Verwirklichung des Projekts unterstützten und weiterhalfen! Diese sind insbesondere:
 
-*Mama und Papa, René Grünbauer, Manfred Hofmann, Christine Lohse, Rainer Schliermann, Rudolf Pichlmeier, Ulrike Weimer, Moritz Walker, Christoph Högl, Yannick Rittner, Paul Kutzer*
+*Mama und Papa, René Grünbauer, Manfred Hofmann, Christine Lohse, Rainer Schliermann, Rudolf Pichlmeier, Ulrike Weimer, Moritz Walker, Christoph Högl, Yannick Rittner, Soller Patrick, Paul Kutzer*
 
 @simondlevy for [CrossPlatformDataBus](https://github.com/simondlevy/CrossPlatformDataBus) library and [USFS](https://github.com/simondlevy/USFS) library
 
